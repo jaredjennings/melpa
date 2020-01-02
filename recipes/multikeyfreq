@@ -1,0 +1,3 @@
+(multikeyfreq :fetcher github
+              :repo "jaredjennings/keyfreq"
+              :branch "command-pairs")
